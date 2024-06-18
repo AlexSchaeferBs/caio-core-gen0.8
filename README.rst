@@ -1,4 +1,4 @@
-XMC1400 Breakout Bricklet
+caio-core-gen0.8
 =========================
 
 This repository contains the firmware source code and the hardware design
